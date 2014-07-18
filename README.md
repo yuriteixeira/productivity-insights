@@ -24,8 +24,7 @@
 * Bash, Zsh + Oh-my-zsh
 	* Ctrl + r
 	* Shared dotfiles (local & spoticlouds with same keystrokes)
-	* Aliases
-	* Plugins
+	* Plugins (alias, completions)
 	* Themes
 
 * PhpStorm 
@@ -53,10 +52,12 @@
 	* Download desktop client (in mac, it allows you to add stuff with context menu)
 
 * Gmail
+	* Enable preview pane (labs)
 	* mute (m), delete (#) and archive (e)
 	* Mute threads that are not interesting, so they will not bother you again
 	* Archive ordinary items or thread that you are following to freeup your inbox
 	* Delete crap (spams, ads, disposable things)
+	* Filter (of course)
 
 
 
